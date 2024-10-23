@@ -1,5 +1,5 @@
-# Cloud-Counselage-Machine-Learning
-Tasks given by cloud counselage as a part of my machine learning intern
+
+
 The solution involves developing predictive model for student placement and calculation for year of graduation which accurately forecasts whether students secure placement and when students will graduate. 1.The year of graduation calculation will function by utilizing essential features and historical data. A dataset containing data on student's college details including college name, academic year and branch will be used. 2. Student placement prediction will function by utilizing essential features and historical data. A dataset containing data on student's academic records, course progress, extracurricular activities, and previous placement results will be used to train the machine learning system. In order for the model to accurately forecast whether students secure placement. It must learn pattern and correlations from this data.
 
 2
